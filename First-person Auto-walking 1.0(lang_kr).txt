@@ -1,0 +1,43 @@
+MAINWIN_TITLE Auto-walking - 메인 컨트롤 패널
+TABSHEET_1_TITLE 1인칭시점 카메라
+TABSHEET_2_TITLE 옵션
+TABSHEET_3_TITLE 단축키
+TABSHEET_4_TITLE 기타 설정
+
+followVehicle 랜덤으로 차량을 추적합니다
+followCitizen 랜덤으로 사람을 추적합니다
+enterWalkMode 걷기 모드를 실행합니다
+
+Taxi 택시
+GarbageTruck 쓰레기 트럭
+Bicycle 자전거
+CargoTruck 화물 트럭
+Healthcare 구급차
+Hearse 영구차
+PoliceCar 경찰차
+FireTruck 소방차
+Tram 트램
+Bus 버스
+Train 기차
+Ship 배
+Plane 비행기
+Metro 지하철
+
+follow_Nearest_target 인근 타겟 추적설정
+
+AutoWalking 자동 걷기설정 (엔터키로 진입이 가능합니다)
+BaseSpeed 걷기 속도설정 (2m-40m/s)
+MouseSensitivity 마우스 움직임설정
+CustomLevelOfDetail 디테일 수준 설정 (또는 설정 해제): 
+Low 낮음
+Medium 중간
+High 높음
+VeryHigh 매우 높음
+DisabledDOF 지하 차량 제외
+
+ResetDefault 초기화
+ApplyAndSave 적용 및 저장
+
+LockIcon 아이콘 위치 잠금설정
+EnhancedDistance 가능 거리 (최대 14000m / 최소 10m)
+totallyFreeCamera 모든 자유 카메라설정
