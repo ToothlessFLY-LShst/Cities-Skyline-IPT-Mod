@@ -43,7 +43,7 @@ SETTINGS_SPAWN_TIME_INTERVAL 소환 간격 :
 SETTINGS_SPAWN_TIME_INTERVAL_TOOLTIP 설정된 초 만큼 차이를 두며 차량이 소환됩니다.
 SETTINGS_SPAWN_TIME_INTERVAL_BUTTON_TOOLTIP 타이머를 0으로 초기화합니다.
 SETTINGS_UNBUNCHING_AGGRESSION 차랑 갼격 빈도 수 :
-SETTINGS_UNBUNCHING_AGGRESSION_TOOLTIP 어떻게 차량 간격 기능을 작동시키는지 궁금하신가요?\n 설정 범위 0-9, 0은 차량 간격 기능을 비 활성화합니다.\n높은 값 일 수록 더 향상된 교통 효과가 나타나지만 이로인해 차량이 연착되어 사라질 수 있습니다.
+SETTINGS_UNBUNCHING_AGGRESSION_TOOLTIP 어떻게 차량 간격 기능을 작동시키는지 궁금하신가요?\n 설정 범위 0-9, 0은 차량 간격 기능을 비 활성화합니다.\n높은 값 일 수록 더 향상된 교통 효과가 나타나지만 이로 인해 차량이 연착되어 사라질 수 있습니다.
 SETTINGS_VEHICLE_COUNT 새 노선의 차량 수 :
 SETTINGS_VEHICLE_COUNT_TOOLTIP 차량 예산기능이 꺼져 있을 경우 새 노선을 만들때 지정된 차량 수 만큼 차량을 소환합니다.
 SETTINGS_AUTOSHOW_LINE_INFO 자동 노선정보 표시
@@ -59,7 +59,7 @@ STOP_PANEL_SUGGESTED_NAMES_TOOLTIP 제안된 역 명칭 목록입니다.
 STOP_PANEL_REUSE_NAME_TOOLTIP 이 이름으로 모든 정거장역을 설정합니다.
 STOP_PANEL_WAITING_PEOPLE 대기중인 승객 : {0}
 STOP_PANEL_BORED_TIMER 불만표출까지 남은 시간 : <color #{0}>{1}</color>
-STOP_PANEL_BORED_TIMER_TOOLTIP 승객들은 카운트가 0이되면 떠나기 시작 할 겁니다.
+STOP_PANEL_BORED_TIMER_TOOLTIP 승객들은 카운트가 0이되면 떠나기 시작합니다.
 STOP_PANEL_PASSENGERS_IN 탑승자 수 :
 STOP_PANEL_PASSENGERS_IN_TOOLTIP 대중교통 차량에 탑승한 승객 수 입니다.
 STOP_PANEL_PASSENGERS_OUT 하차자 수 :
