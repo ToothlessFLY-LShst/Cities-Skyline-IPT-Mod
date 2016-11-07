@@ -1,4 +1,4 @@
-MAINWIN_TITLE Auto-walking - 메인 컨트롤 패널
+MAINWIN_TITLE 자동 걷기 - 메인 컨트롤 패널
 TABSHEET_1_TITLE 1인칭시점 카메라
 TABSHEET_2_TITLE 옵션
 TABSHEET_3_TITLE 단축키
