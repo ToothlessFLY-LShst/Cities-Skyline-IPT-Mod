@@ -114,6 +114,7 @@ The_chosen_traffic_light_program_is_incompatible_to_this_junction 선택한 교�
 Advanced_AI_cannot_be_activated 발전된 AI 활성화 불가
 The_Advanced_Vehicle_AI_cannot_be_activated 이미 다른 모드로 차량 AI 향상을 사용중이므로 발전된 차량 AI를 사용 할 수 없습니다.(예 : 향상된 AI, 트래픽 C++)
 Enable_dynamic_path_calculation 동적인 경로 계산 활성화
+Changes_made_with_this_tool_will_take_full_effect_after_some_minutes 이 기능을 완벽히 적용하려면 몇분정도 시간이 필요합니다
 Lane_Arrow_Changer_Disabled_Connection 차선 연결로 이미 수정된 교차로이므로 차선변경을 할 수 없습니다.
 Lane_connector 차선 연결
 Connected_lanes 연결된 차선
@@ -128,3 +129,32 @@ Activated_features 기능 활성화
 Junction_restrictions 교차로 규칙
 Prohibit_spawning_of_pocket_cars 시민들의 포켓차량 소환 금지
 Reset_stuck_cims_and_vehicles 갇혀있는 시민과 차량 초기화
+Default_speed_limits 기본 속도 제한
+Looking_for_a_parking_spot 주차공간 찾는중
+Driving_to_a_parking_spot 해당 주차공간으로 운전중
+Driving_to_another_parking_spot 다른 주차공간으로 운전중
+Entering_vehicle 차량 탑승중
+Walking_to_car 차 있던곳으로 가는중
+Using_public_transport 대중교통 이용중
+Walking 걷는중
+Thinking_of_a_good_parking_spot 주차하기에 좋은장소를 생각중
+Switch_view 보기 전환
+Outgoing_demand 나가는 수요
+Incoming_demand 들어오는 수요
+Advanced_Vehicle_AI 발전된 차량 AI
+Heavy_trucks_prefer_outer_lanes_on_highways 무거운(화물)차량은 고속도로 바깥차선을 선호
+Parking_AI 주차 AI
+Enable_more_realistic_parking 좀더 현실적인 주차 활성화
+Reset_custom_speed_limits 커스텀 속도 초기화
+Reload_global_configuration 글로벌(global) 설정 불러오기
+Reset_global_configuration 글로벌(global) 설정 초기화
+General 기본
+Gameplay 게임플레이
+Overlays 화면표시
+Realistic_speeds 현실적인 속도
+Evacuation_busses_may_ignore_traffic_rules 대피 버스는 교통규칙을 무시합니다
+Evacuation_busses_may_only_be_used_to_reach_a_shelter 대피 버스는 대피소 도착을 위한 용도로만 사용할 수 있습니다
+Vehicle_behavior 차량 제한
+Policies_&_Restrictions 정책 및 제한
+At_junctions 교차로 설정
+In_case_of_emergency 긴급상황 설정
