@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="ko" ReadableName="Korean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+    <Translation ID ="MOD_DESCRIPTION" String="UltimateMod 2.4 가장 큰 도시를 건설해보세요!" />
+    <Translation ID ="GAME_UPDATE" String="게임 업데이트가 감지되어 모드가 비활성화 됩니다.&#10;!!! 모드 업데이트를 기다려주십시오!!!" />
+
+    <!--Menu Tabs-->
+    <Translation ID ="TAB_INFO" String="정보" />
+    <Translation ID ="TAB_GENERAL" String="일반" />
+    <Translation ID ="TAB_GAMEPLAY" String="게임 플레이" />
+    <Translation ID ="TAB_ECONOMICAL" String="경제" />
+    <Translation ID ="TAB_FEATURE" String="특징" />
+    <Translation ID ="TAB_EXTRAS" String="추가기능" />
+
+    <!--Tab Info-->
+    <Translation ID ="TAB_INFO_GROUP_NOTICE" String="공지사항:" />
+    <Translation ID ="TAB_INFO_LABEL_NOTICE" String="이 모드는 Klyte Commons모드를 더는 필요로 하지 않습니다!" />
+    <Translation ID ="TAB_INFO_GROUP_REPORT" String="오류보고:" />
+    <Translation ID ="TAB_INFO_LABEL_REPORT" String="사용중 버그/이상현상에 대해 알려주십시오 ! &#10;게임의 새로운 업데이트나 &#10;아직 내가 알지 못하는 현상으로 인해 일어날 수 있습니다" />
+    <Translation ID ="TAB_INFO_GROUP_EXTRAS" String="참고:"/>
+    <Translation ID ="TAB_INFO_EXTRAS_LABEL_MODVERSION" String="모드 버전:"/>
+    <Translation ID ="TAB_INFO_EXTRAS_LABEL_GAMEVERSION" String="게임 버전:"/>
+    <Translation ID ="TAB_INFO_EXTRAS_BTN_RELASENOTES" String ="모드 업데이트 내역 보기"/>
+    <Translation ID ="TAB_INFO_EXTRAS_BTN_LOGBUTTON" String ="모드 로그파일 열기"/>
+    <Translation ID ="TAB_INFO_EXTRAS_BTN_POSTYOURBUG" String ="버그 제보하기"/>
+    
+    <!--Tab General-->
+    <Translation ID ="TAB_GENERAL_GROUP_SETTINGS" String ="일반 설정 (게임 재실행 필요함)"/>
+    <Translation ID ="TAB_GENERAL_CHKBOX_ENABLEACHIEVMENTS" String ="업적 활성화"/>
+    <!--<Translation ID ="TAB_GENERAL_CHKBOX_PAUSEONLOAD" String ="PauseOnLoad"/>-->
+    <Translation ID ="TAB_GENERAL_CHKBOX_NOCHIRPER" String ="짹짹이 비활성화"/>
+    <Translation ID ="TAB_GENERAL_CHKBOX_DISABLEABANDONMENT" String ="건물 버려짐 비활성화"/>
+    <Translation ID ="TAB_GENERAL_CHKBOX_DISABLEFIRES" String ="화재 비활성화"/>
+    
+    <Translation ID ="TAB_GENERAL_GROUP_MILESTONES" String ="고유 건물들 해제 (게임 재실행 필요함)"/>
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKUNIQUEBUILDINGS" String="고유 건물들 (레벨 1 - 6)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKWONDERS" String="기념비적 건물 (a.k.a Monuments)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKNATURALDISASTERS" String="자연 재해 랜드마크들 (Natural Disasters DLC 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKAFTERDARK" String="에프터 다크 랜드마크들 (a.k.a Tourism &amp; Leisure, After Dark DLC 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKSNOWFALL" String="스노우폴 랜드마크 들 (Snowfall DLC 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKDELUXE" String="디럭스 랜드마크들 (Deluxe Edition 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKEURO" String="유럽형 랜드마크들 (European 테마 필요함 / 유럽형 건물들 해제 모드)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKMASSTRANSIT" String="매스 트랜짓 랜드마크들 (Mass Transit DLC 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKGREENCITIES" String="녹색 도시 랜드마크들 (Green Cities DLC 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKCONCERTS" String="콘서트 랜드마크들 (Concerts DLC 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKPARKLIFE" String="파크라이프 랜드마크들 (Parklife DLC 필요함)" />
+    <Translation ID ="TAB_GENERAL_CHKBOX_UNLOCKCAMPUS" String="캠퍼스 (Campus DLC 필요함)" />
+    
+    <!--TAB GAMEPLAY-->
+    <Translation ID ="TAB_GAMEPLAY_GROUP_POLLUTION" String ="오염 제거 설정"/>
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_REMOVENOISEPOLLUTION" String="소음공해 제거" />
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_REMOVEGROUNDPOLLUTION" String="토양 오염 제거" />
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_REMOVEWATERPOLLUTION" String="수질 오염 제거" />
+
+    <Translation ID ="TAB_GAMEPLAY_GROUP_RESOURCES" String ="무제한 자원 설정 (게임 재실행 필요함)"/>
+    <Translation ID ="TAB_GAMEPLAY_LABEL_UNLIMITEDOILORE" String="콘텐츠 관리자에서 석유 및 광물 무제한인 기본 제공 모드를 비활성화하십시오." />
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_UNLIMITEDOIL" String="석유 ( 해당 지형에서 석유가 줄어들지 않습니다 )" />
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_UNLIMITEDORE" String="광물 ( 해당 지형에서 광물이 줄어들지 않습니다 )" />
+
+    <Translation ID ="TAB_GAMEPLAY_GROUP_COSTS_REFUND" String ="유지 및 보수 비용 반환 (게임 재실행 필요함)"/>
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_MAINTENANCECOSTS" String="유지비용 절반" />
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_CONSTRUCTIONECOST" String="건설비용 절반" />
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_RELOCATIONCOST" String="재배치 비용 절반" />
+    <Translation ID ="TAB_GAMEPLAY_CHKBOX_FULLREFUND" String="모두 반환 (활성화시 모두 반환됨 - 절반 반환 기능은 비활성화됨)" />
+    
+    <!--TAB ECONOMICAL-->
+    <Translation ID ="TAB_ECONOMICAL_GROUP_RICO_PUBLIC" String ="구역 및 공공시설 수입 설정"/>
+    <Translation ID ="TAB_ECONOMICAL_DROPDOWN_LABEL_RESIDENT" String ="주거 수입"/>
+    <Translation ID ="TAB_ECONOMICAL_DROPDOWN_LABEL_OFFICE" String ="오피스 수입"/>
+    <Translation ID ="TAB_ECONOMICAL_DROPDOWN_LABEL_COMMERCIAL" String ="상업 수입"/>
+    <Translation ID ="TAB_ECONOMICAL_DROPDOWN_LABEL_INDUSTRIAL" String ="산업 수입"/>
+    <Translation ID ="TAB_ECONOMICAL_DROPDOWN_LABEL_PTRANSPORT" String ="대중교통 수입"/>
+    <Translation ID ="TAB_ECONOMICAL_DROPDOWN_LABEL_TOURISM" String ="여행객 수입"/>
+    <Translation ID ="TAB_ECONOMICAL_DROPDOWN_LABEL_BEAUTIFICATION" String ="공원 구역 수입 (공원 구역)"/>
+    
+    <!--TAB FEATURE OPTIONS-->
+    <Translation ID ="TAB_FEATURE_GROUP_EASY_BUILD" String ="쉬운 고층건물 빌드 설정"/>
+    <Translation ID ="TAB_FEATURE_CHKBOX_ATTRACTIVENESS" String="도시 전체의 매력을 극대화 합니다. 더 많은 관광객이 몰려옵니다." />
+    <Translation ID ="TAB_FEATURE_CHKBOX_ENTERTAINMENT" String="도시 전체의 오락을 극대화 합니다." />
+    <Translation ID ="TAB_FEATURE_CHKBOX_LANDVALUE" String="도시 전체의 토지 가격을 극대화 합니다." />
+    <Translation ID ="TAB_FEATURE_CHKBOX_EDUCATION" String="교육 수준을 극대화힙니다. &#10;교육 받은 시민들이 학교를 필요로 할 수도 있습니다." />
+    <Translation ID ="TAB_FEATURE_CHKBOX_HEALTH" String="도시 전체의 건강 관리를 극대화 합니다." />
+    <Translation ID ="TAB_FEATURE_CHKBOX_CRIME" String="모든 건물의 범죄자를 제거하며 경찰 순찰 효율을 극대화 합니다." />
+    <Translation ID ="TAB_FEATURE_CHKBOX_DEATH" String="사망자를 새로운 아이들로 바로 대체합니다. &#10;운구 처리률 최대로." />
+    <Translation ID ="TAB_FEATURE_CHKBOX_GARBAGE" String="모든 건물의 쓰레기 제거" />
+    
+    <!--TAB EXTRAS OPTION-->
+    <Translation ID ="TAB_EXTRAS_GROUP_EXTRAS" String ="추가 기능 설정 ( 베타 )"/>
+    <Translation ID ="TAB_EXTRAS_CHKBOX_FULLDEMAND" String="주거, 상업, 산업 수요 최대로 설정" />
+    <Translation ID ="TAB_EXTRAS_CHKBOX_NOPOLICIESCOST" String="정책 비용 없음" />
+  </Translations>
+</Language>
