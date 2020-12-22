@@ -1,0 +1,19 @@
+["Name", "Type", "Status", "Service", "Size", "Date", "Workshop item", "Workshop item used in city", "Asset used in city"]
+["名字", "类型", "状态", "服务", "大小", "日期", "工坊id", "工坊资产用于城市", "用于城市"]
+["이름", "유형", "상태", "서비스", "크기", "날짜", "창작마당 아이템", "도시에 사용된 창작마당 아이템", "도시에 사용된 에셋"]
+
+['building', 'park', 'prop', 'tree', 'vehicle', 'trailer', '?', 'sub-building', 'variation', 'citizen', 'net', 'elevation', 'pillar']
+['建筑物', '公园', '道具', '树木', '载具', '拖车', '?', '建筑物sub', '变化', '市民', '道路', '公路立交桥', '公路支柱']
+['건물', '공원', '프롭', '나무', '차량', '트레일러', '?', '조립식-건물', '변형', '시민들,' 'net', '고도', '기둥']
+
+['failed', 'available', 'missing', 'name changed']
+['失败', '好', '丢失', '作者可能更改了名称']
+['실패함', '가능함', '사라짐', '이름 변경됨']
+
+['?', '-', 'no', 'indirectly', 'yes', ' placed', ' once', ' times']
+['?', '-', '没有', '间接地', '是的', '直接', '一次', '次']
+['?', '-', '아니오', '간접적으로', '예', '배치됨', '한번만', ' 몇 번']
+
+['Asset in city:', 'WI in city:', 'Workshop link', 'No link', 'Mod or DLC asset', 'Not on workshop', 'Private asset', 'uses these assets', 'These assets use', 'contains this asset', 'contains these assets', 'These assets are private', 'Workshop item is unknown', 'Mod or DLC assets']
+['用于城市:', '工坊资产用于城市:', '链接', '没有可用链接', '可能是DLC或Mod内容', '不在工坊', '私有资产', '使用', '这些资产使用', '包含', '包含', '私有资产', '没有可用链接', '可能是DLC或Mod内容']
+['도시에 사용된 에셋:', '도시에 사용된 창작마당 아이템:', '창작마당 링크', '링크 없음', '모드 혹은 DLC 에셋', '창작마당에 없음', '비공개 에셋', '해당 자산 사용됨', '해당 자산 사용', '포함된 해당 자산', '포함된 해당 자산들', '비공개된 에셋', '알수없는 창작마당 아이템', '모드 혹은 DLC 에셋들']
